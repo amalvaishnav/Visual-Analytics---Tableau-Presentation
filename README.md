@@ -11,8 +11,7 @@ Affordable house with the rent in budget
 Select the area where schools and banks are nearby
 Select the area which is safer
 Link to Tableau Public :
+https://public.tableau.com/profile/amal.vaishnav#!/ (Links to an external site.)
 
-https://public.tableau.com/profile/amal.vaishnav#!/ (Links to an external site.)Links to an external site.
 Link to PPT :
-
-https://drive.google.com/open?id=1GXb18hKxyOHcT6BMXZUnHRqv8p8emTKw (Links to an external site.)Links to an external site.
+https://drive.google.com/open?id=1GXb18hKxyOHcT6BMXZUnHRqv8p8emTKw (Links to an external site.)
